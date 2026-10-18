@@ -55,6 +55,7 @@ Every feature has a switch. Add a block like this at the end of Custom CSS (1 = 
 | `--dcs-fx-tilt` | spotlight cards: a light and rim follow the pointer, with a gentle tilt (off on touch and TV) |
 | `--dcs-fx-parallax` | the details backdrop moves slower than the page |
 | `--dcs-fx-transition` | a short fade between pages |
+| `--dcs-fx-backdrop` | details pages show the title's backdrop even with Jellyfin's Display > Backdrops off (0 = Jellyfin decides) |
 | `--dcs-fx-gate` | the details backdrop opens like a projector gate (needs `transition`) |
 | `--dcs-fx-autohide` | the header hides while you scroll down and returns when you scroll up |
 | `--dcs-fx-nav` | the header's libraries in one glass capsule with a sliding indicator; icons only when plugins crowd the bar |
